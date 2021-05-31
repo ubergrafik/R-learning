@@ -8,3 +8,4 @@ https://www.dataquest.io/blog/learn-r-for-data-science/
 
 Other places:
 Andrew Robinson - 
+https://github.com/allisonhorst/stats-illustrations
