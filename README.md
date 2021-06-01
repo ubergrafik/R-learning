@@ -13,3 +13,7 @@ Andrew Robinson -
 https://github.com/allisonhorst/stats-illustrations
 
 https://rmarkdown.rstudio.com/lesson-1.html 
+
+
+Getting up and running
+
