@@ -25,3 +25,10 @@ connect it to your local R
 
 
 LAUNCH THE COMMAND LINE VERSION: type R x64 to seach for it - or manke a shortcut - or 
+
+
+Text editor for writing scripts
+
+Coding style and some syntax - https://style.tidyverse.org/
+
+
