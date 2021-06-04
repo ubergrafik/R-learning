@@ -8,7 +8,7 @@ https://www.datacamp.com/community/blog/how-to-learn-r
 https://www.dataquest.io/blog/learn-r-for-data-science/
 
 Other places:
-Andrew Robinson - 
+Andrew Robinson - icebreakR http://www.ms.unimelb.edu.au/~andrewpr/r-users/
 
 https://github.com/allisonhorst/stats-illustrations
 
