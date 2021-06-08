@@ -15,13 +15,11 @@ https://github.com/allisonhorst/stats-illustrations
 https://rmarkdown.rstudio.com/lesson-1.html 
 
 
-Getting up and running
+## Up and running
 
-Download R - then download R studio
-
-setup a Git hub accout
-
-connect it to your local R
+###Download R - then download R studio
+###setup a Git hub accout
+###connect it to your local R
 
 
 LAUNCH THE COMMAND LINE VERSION: type R x64 to seach for it - or manke a shortcut - or 
