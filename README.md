@@ -3,7 +3,7 @@
 This is the repo for adding in code examples, experiments etc.
 
 ## Contents
- - Up and Running (#Up and running)
+ - Up and Running (#up-and-running)
  - 
 
 Looking at these places first:
@@ -19,7 +19,7 @@ https://github.com/allisonhorst/stats-illustrations
 https://rmarkdown.rstudio.com/lesson-1.html 
 
 
-## Up and running
+## Up and running {#up-and-running}
 ### Up
 1. Download R - then download R studio
 2. setup a Git hub accout
