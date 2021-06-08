@@ -30,14 +30,22 @@ LAUNCH THE COMMAND LINE VERSION: type R x64 to seach for it - or manke a shortcu
 
 Text editor for writing scripts
 
+LAnguage basics
+- Case sensitive
+- ignores white space
+- <- assignment operator
+- single and double quote the same as a single quote 'string' == "string"
+- use \ to escape
+- In Rstudio - ctrl+enter to run that line
 
+Data types
+- Numeric
+- Characters
+- Logic
+- factors - a category myfactor <- as.factor("value")
+- vector - vec1 <- c(1,2,2,23,0.2)
+- 
 
 ## Resources
 - Markdown - https://www.markdownguide.org/
 - Coding style and some syntax - https://style.tidyverse.org/
-
-
-
-
-### My Great Heading {#custom-id}
-[Heading IDs](#custom-id)
